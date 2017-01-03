@@ -1,0 +1,8 @@
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\bin\Debug\calc_test.dll
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\bin\Debug\calc_test.pdb
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\obj\Debug\calc_test.csprojResolveAssemblyReference.cache
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\obj\Debug\calc_test.dll
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\obj\Debug\calc_test.pdb
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\bin\Debug\WpfApplication2.exe
+c:\users\tifchen\documents\visual studio 2015\Projects\WpfApplication2\calc_test\bin\Debug\WpfApplication2.pdb
